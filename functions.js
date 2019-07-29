@@ -40,3 +40,7 @@ function drawMonster(){
     cardDraw.append(monsterEl);
 
 }
+
+function checkGit(){
+    
+}
